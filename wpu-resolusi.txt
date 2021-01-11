@@ -1,0 +1,4 @@
+WPU Resolusi
+-Konsisten Belajar HTML
+-Konsisten Belajar Css
+-Konsisten Belajar Javascript
